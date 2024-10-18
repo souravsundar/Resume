@@ -432,7 +432,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
     display: flex;
     gap: 20px;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 2px;
 }
 
 .btn {
@@ -454,7 +454,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 .btn::before {
     content: '';
     position: absolute;
-    top: 50%;
+    top: 10%;
     left: 50%;
     width: 300%;
     height: 300%;
